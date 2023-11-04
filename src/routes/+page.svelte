@@ -1,6 +1,6 @@
 <svelte:head>
-    <title>Prompt builder and library for ChatGPT 🛠️</title>
-    <meta name="description" content="Prompt Builder is a free library and builder for ChatGPT prompts.">
+    <title>Voyager Social's Prompt Customizer 🛠️</title>
+    <meta name="description" content="VS Prompt Customizer is a free library and builder for ChatGPT prompts.">
 </svelte:head>
 
 <script>
@@ -20,15 +20,12 @@
 
 <div>
     <div class="flex flex-col items-center">
-        <h1 class="text-3xl sm:text-5xl font-bold pt-14">🛠️ Prompt Builder</h1>
+        <h1 class="text-3xl sm:text-5xl font-bold pt-14">🛠️ Voyager Social's Prompt Customizer</h1>
         <p class="text-xl">No need to study prompt engineering</p>
         <br/>
         <br/>
         <p class="text-lg text-center">
-            Prompt Builder is a free library and builder for ChatGPT prompts. All prompts are carefully crafted to get
-            good output.
-            <br/>
-            Prompt Builder is open source and on <a class="link" href="https://github.com/MarvinJWendt/promptbuilder.dev">GitHub</a> - feel free to contribute!
+            The VS Prompt Customizer is a free library and builder for customized AI prompts.
             <br/>
             There are currently <span class="font-bold">{totalPaths}</span> total prompt templates available.
         </p>
@@ -38,7 +35,7 @@
     <div class="mt-16">
         <FAQ/>
     </div>
-    <div class="mt-16">
+    <!-- <div class="mt-16">
         <AllPrompts data={categories}/>
-    </div>
+    </div> -->
 </div>

@@ -14,8 +14,8 @@
 {#key data.pathname}
     <div id="particles" class="absolute left-0 top-0 w-full -z-10"></div>
     <main class="min-h-screen">
-        <Navbar/>
-        <article class="m-8">
+        <!-- <Navbar/> -->
+        <article class="m-10">
             <slot/>
         </article>
     </main>
@@ -24,6 +24,6 @@
 
 <style lang="postcss">
     main {
-        @apply mt-28 mx-auto sm:w-3/4 max-w-6xl;
+        @apply mt-8 mx-auto sm:w-3/4 max-w-6xl;
     }
 </style>

@@ -1,0 +1,20 @@
+name: ✍️ Write an Day Itinerary
+description: Write an a day itinerary for a city
+
+
+
+steps:
+  - title: City
+    elements:
+    - type: text
+      label: Location to itinerary is required for
+      prompt: "City: \"{{value}}\"\n"
+  - title: Client's Area of Interest
+    elements:
+      - type: textarea
+        label: Tell me more about your clients likes and dislikes, age, etc.
+        inactive: 'No additional context'
+        prompt: |2-
+        
+          Create a day itinerary, hour by hour, for the above city. When selecting activities, consider the following:
+          {{value}}

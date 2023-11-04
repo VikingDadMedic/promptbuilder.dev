@@ -1,5 +1,5 @@
 <svelte:head>
-    <title>{category.name} prompt library for ChatGPT - Prompt Builder</title>
+    <title>{category.name} prompt library for ChatGPT - VS Prompt Customizer</title>
     <meta name="description" content="High quality prompt library for the category: '{category.name.replace(/^.*? /, '')}'">
 </svelte:head>
 

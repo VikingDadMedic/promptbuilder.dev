@@ -1,24 +1,16 @@
 <script>
     const faq = [
       {
-        q: "What is a prompt builder?",
-        a: `A prompt builder is a tool that lets you create prompts for chatbots, like ChatGPT.`
+        q: "What exactly does the VS Prompt Customizer do?",
+        a: `The Prompt Customizer is a prompt builder tool that lets you create prompts for AI, like Toby AI.`
       },
       {
-        q: "What are the benefits of promptbuilder.dev?",
-        a: `Coming up with prompts, which give a good result, can be hard. Often you have to try many different prompts before you find one that works. A prompt builder can help you with this process, by letting you quickly try out many different settings. Also, the prompts at promptbuilder.dev are carefully curated, so you can be confident that they will give good results.`
+        q: "What are the benefits of using VS Prompt Customizer?",
+        a: `Coming up with prompts, which give a good result, can be hard. Often you have to try many different prompts before you find one that works. A prompt builder can help you with this process, by letting you quickly try out many different settings. Also, the prompts we provide are carefully curated, so you can be confident that they will give good results.`
       },
       {
         q: 'Which AI models are supported?',
-        a: `Promptbuilder.dev is not limited to any specific AI models. The prompts are crafted and tested for <a class="link" target="_blank" href="https://chat.openai.com/">ChatGPT</a> (GPT-3 and GPT-4), but can be used with any AI model, although the results may vary.`
-      },
-      {
-        q: "Do I need to attribute generated content to promptbuilder.dev?",
-        a: `No :)`
-      },
-      {
-        q: 'Can I use the prompts commercially?',
-        a: `Yes! Feel free to use the prompts wherever you like. <br/> If you want to support promptbuilder.dev, you can link to it, mention it in your blog posts or videos, or dontate at <a class="link" href="https://marvin.ws/donate">marvin.ws/donate</a>.`
+        a: `While these prompts are designed for Toby AI, they can be used with any AI model.`
       }
     ]
 </script>

@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /dev/
 
-Sitemap: https://promptbuilder.dev/sitemap.xml
+Sitemap: https://prompts.voyagersocial.ai/sitemap.xml

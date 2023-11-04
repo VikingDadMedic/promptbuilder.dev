@@ -1,19 +1,19 @@
 <svelte:head>
-    <title>Terms of Service - Prompt Builder</title>
+    <title>Terms of Service - VS Prompt Customizer</title>
     <meta name="description" content="Terms of Service for PromptBuilder.dev">
 </svelte:head>
 
-<article class="prose"><h1>Terms of Service for Prompt Builder</h1>
+<article class="prose"><h1>Terms of Service for VS Prompt Customizer</h1>
 
-    <p>Welcome to Prompt Builder, a website accessible at <a href="https://promptbuilder.dev">https://promptbuilder.dev</a>. This website is owned and operated by Marvin Wendt, who is reachable via Twitter <a href="https://twitter.com/MarvinJWendt">@MarvinJWendt</a>. The following Terms of Service ("ToS") govern your access to and use of our services, effective as of September 25, 2023.</p>
+    <p>Welcome to VS Prompt Customizer, a website accessible at <a href="https://prompts.voyagersocial.ai">https://prompts.voyagersocial.ai</a>. This website is owned and operated by Marvin Wendt, who is reachable via Twitter <a href="https://twitter.com/MarvinJWendt">@MarvinJWendt</a>. The following Terms of Service ("ToS") govern your access to and use of our services, effective as of September 25, 2023.</p>
 
     <h2>Acceptance of Terms</h2>
 
-    <p>By using Prompt Builder, you signify your agreement to these Terms of Service. If you disagree with any part of these terms, please do not use our services.</p>
+    <p>By using VS Prompt Customizer, you signify your agreement to these Terms of Service. If you disagree with any part of these terms, please do not use our services.</p>
 
     <h2>Our Services</h2>
 
-    <p>Prompt Builder is designed to offer preset prompts for artificial intelligence. The use of these prompts is at your own risk, as we offer no warranties or guarantees about their safety or the outcomes they might produce.</p>
+    <p>VS Prompt Customizer is designed to offer preset prompts for artificial intelligence. The use of these prompts is at your own risk, as we offer no warranties or guarantees about their safety or the outcomes they might produce.</p>
 
     <h2>Changes and Updates</h2>
 
@@ -33,7 +33,7 @@
 
     <h2>Third-Party Links</h2>
 
-    <p>Our Terms of Service do not apply to websites linked from Prompt Builder. We are not responsible for the content or practices of third-party websites.</p>
+    <p>Our Terms of Service do not apply to websites linked from VS Prompt Customizer. We are not responsible for the content or practices of third-party websites.</p>
 
     <h2>Payment</h2>
 
@@ -41,7 +41,7 @@
 
     <h2>Dispute Resolution</h2>
 
-    <p>No disputes can be filed against Prompt Builder, as we do not offer a platform for dispute resolution.</p>
+    <p>No disputes can be filed against VS Prompt Customizer, as we do not offer a platform for dispute resolution.</p>
 
     <h2>Intellectual Property</h2>
 

@@ -1,12 +1,12 @@
 <svelte:head>
-    <title>Privacy Policy - Prompt Builder</title>
+    <title>Privacy Policy - VS Prompt Customizer</title>
     <meta name="description" content="Privacy Policy for PromptBuilder.dev">
 </svelte:head>
 
 <article class="prose">
-    <h1>Privacy Policy for Prompt Builder</h1>
+    <h1>Privacy Policy for VS Prompt Customizer</h1>
 
-    <p>This Privacy Policy is effective as of September 25, 2023, and applies to the website Prompt Builder, accessible at <a href="https://promptbuilder.dev">https://promptbuilder.dev</a>. The website is owned by Marvin Wendt, who can be reached via Twitter <a href="https://twitter.com/MarvinJWendt">@MarvinJWendt</a>.</p>
+    <p>This Privacy Policy is effective as of September 25, 2023, and applies to the website VS Prompt Customizer, accessible at <a href="https://prompts.voyagersocial.ai">https://prompts.voyagersocial.ai</a>. The website is owned by Marvin Wendt, who can be reached via Twitter <a href="https://twitter.com/MarvinJWendt">@MarvinJWendt</a>.</p>
 
     <h2>What Information We Collect</h2>
 
@@ -18,11 +18,11 @@
 
     <h2>Why We Collect Information</h2>
 
-    <p>The collected data, both personal and non-personal, serve a singular purpose: to improve the quality and functionality of Prompt Builder. This helps us understand our user base and make data-driven decisions for future updates.</p>
+    <p>The collected data, both personal and non-personal, serve a singular purpose: to improve the quality and functionality of VS Prompt Customizer. This helps us understand our user base and make data-driven decisions for future updates.</p>
 
     <h2>Usage of Collected Information</h2>
 
-    <p>We do not share, sell, or use the collected information for marketing communications. The data is solely for internal purposes to improve the functionality and security of Prompt Builder.</p>
+    <p>We do not share, sell, or use the collected information for marketing communications. The data is solely for internal purposes to improve the functionality and security of VS Prompt Customizer.</p>
 
     <h2>Data Storage and Security</h2>
 

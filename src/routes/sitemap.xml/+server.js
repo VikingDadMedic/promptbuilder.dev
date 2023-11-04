@@ -2,9 +2,9 @@ import {getCategories} from "$lib/builder/prompts.js";
 
 export async function GET() {
   const urls = [
-    "https://promptbuilder.dev/",
-    "https://promptbuilder.dev/tos",
-    "https://promptbuilder.dev/privacy",
+    "https://prompts.voyagersocial.ai/",
+    "https://prompts.voyagersocial.ai/tos",
+    "https://prompts.voyagersocial.ai/privacy",
   ]
 
   // Get all paths
@@ -16,9 +16,9 @@ export async function GET() {
       continue;
     }
 
-    urls.push(`https://promptbuilder.dev/${category.slug}`);
+    urls.push(`https://prompts.voyagersocial.ai/${category.slug}`);
     for (let path of category.paths) {
-      urls.push(`https://promptbuilder.dev/${category.slug}/${path.slug}`);
+      urls.push(`https://prompts.voyagersocial.ai/${category.slug}/${path.slug}`);
     }
   }
 

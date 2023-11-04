@@ -1,0 +1,27 @@
+
+INFO [2023-11-04T21:37:56.455Z]: Tracking open event
+INFO [2023-11-04T21:37:56.456Z]: Creating language service
+INFO [2023-11-04T21:37:56.456Z]: Creating settings service
+INFO [2023-11-04T21:37:56.456Z]: Creating workspace service
+INFO [2023-11-04T21:37:56.456Z]: Creating remote AI
+INFO [2023-11-04T21:37:56.456Z]: Creating feedback service
+INFO [2023-11-04T21:37:56.456Z]: Creating share service
+INFO [2023-11-04T21:37:56.456Z]: Creating workspace controller
+INFO [2023-11-04T21:37:56.457Z]: Enabling workspace listeners
+INFO [2023-11-04T21:37:56.457Z]: Creating source
+INFO [2023-11-04T21:37:56.457Z]: Initializing workspace controller
+INFO [2023-11-04T21:37:56.457Z]: opened
+INFO [2023-11-04T21:37:56.457Z]: {}
+INFO [2023-11-04T21:38:04.538Z]: Tracking open event
+INFO [2023-11-04T21:38:04.539Z]: Creating language service
+INFO [2023-11-04T21:38:04.539Z]: Creating settings service
+INFO [2023-11-04T21:38:04.539Z]: Creating workspace service
+INFO [2023-11-04T21:38:04.539Z]: Creating remote AI
+INFO [2023-11-04T21:38:04.539Z]: Creating feedback service
+INFO [2023-11-04T21:38:04.539Z]: Creating share service
+INFO [2023-11-04T21:38:04.539Z]: Creating workspace controller
+INFO [2023-11-04T21:38:04.539Z]: Enabling workspace listeners
+INFO [2023-11-04T21:38:04.540Z]: Creating source
+INFO [2023-11-04T21:38:04.540Z]: Initializing workspace controller
+INFO [2023-11-04T21:38:04.540Z]: opened
+INFO [2023-11-04T21:38:04.540Z]: {}

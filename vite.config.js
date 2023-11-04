@@ -4,7 +4,9 @@ import {SvelteKitPWA} from '@vite-pwa/sveltekit'
 
 export default defineConfig({
   plugins: [
-    sveltekit(),
+    sveltekit({      experimental: {
+        inspector: true,
+      }}),
     SvelteKitPWA(
       {
         strategies: "generateSW",
@@ -12,12 +14,12 @@ export default defineConfig({
           enabled: true,
         },
         manifest: {
-          name: "Prompt Builder",
-          short_name: "Prompt Builder",
-          description: "Prompt Builder is a free library and builder for ChatGPT prompts.",
+          name: "VS Prompt Customizer",
+          short_name: "VS Prompt Customizer",
+          description: "VS Prompt Customizer is a free library and builder for ChatGPT prompts.",
           lang: "en",
           display: "standalone",
-          start_url: "https://promptbuilder.dev",
+          start_url: "https://prompts.voyagersocial.ai",
           scope: "/",
           theme_color: "#0e1728",
           background_color: "#0e1728",

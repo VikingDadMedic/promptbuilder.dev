@@ -10,7 +10,15 @@ const config = {
 		// See https://kit.svelte.dev/docs/adapters for more information about adapters.
 		adapter: adapter({out: 'build',	precompress: false, envPrefix: '', polyfill: true})
 	},
-	preprocess: [vitePreprocess(), switchCase()]
+	preprocess: [vitePreprocess(), switchCase()],
+	vitePlugins: {
+		inspector: {
+			holdMode: true,
+			toggleKeyCombo: 'meta-shift',
+			toggleButtonPos: 'top-right',
+			showToggleButton: 'always'
+		},
+	},
 };
 
 export default config;

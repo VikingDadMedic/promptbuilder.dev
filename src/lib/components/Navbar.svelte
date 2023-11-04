@@ -58,7 +58,7 @@
                     </svg>
                 </label>
             </div>
-            <a href="/" class="btn btn-ghost normal-case text-xl">🛠️ Prompt Builder</a>
+            <a href="/" class="btn btn-ghost normal-case text-xl">🛠️ VS Prompt Customizer</a>
         </div>
         <div class="navbar-center">
             <div class="text-md breadcrumbs">
