@@ -14,8 +14,8 @@
 {#key data.pathname}
     <div id="particles" class="absolute left-0 top-0 w-full -z-10"></div>
     <main class="min-h-screen">
-        <!-- <Navbar/> -->
-        <article class="m-10">
+        <Navbar/>
+        <article class="m-10 pl-14 pt-20">
             <slot/>
         </article>
     </main>

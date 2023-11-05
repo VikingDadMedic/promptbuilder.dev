@@ -9,7 +9,7 @@
 
     if (localStorage.getItem('theme') === 'light') {
       checkbox.checked = true
-      updateParticleColor('#0000ff', 0.2)
+      updateParticleColor('#BE123C', 0.2)
     } else {
       checkbox.checked = false
       updateParticleColor('#ffffff', 0.1)

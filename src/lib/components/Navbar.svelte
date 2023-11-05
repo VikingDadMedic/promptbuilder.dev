@@ -58,10 +58,10 @@
                     </svg>
                 </label>
             </div>
-            <a href="/" class="btn btn-ghost normal-case text-xl">🛠️ VS Prompt Customizer</a>
+            <a href="/" class="btn btn-ghost normal-case text-xl">VS Prompt Customizer</a>
         </div>
         <div class="navbar-center">
-            <div class="text-md breadcrumbs">
+            <!-- <div class="text-md breadcrumbs">
                 <ul>
                     {#each breadcrumbs as breadcrumb}
                         <li>
@@ -69,7 +69,7 @@
                         </li>
                     {/each}
                 </ul>
-            </div>
+            </div> -->
         </div>
         <div class="navbar-end">
             <ThemeChanger/>
