@@ -21,7 +21,7 @@
 
 <Sidebar categories="{data.categories}"/>
 <section>
-    <div class="flex flex-col items-center">
+    <div class="flex flex-col items-center mr-12">
         <div class="w-full">
             <div class="flex flex-col items-center">
                 <h1 class="text-3xl sm:text-5xl mb-2 font-bold">{path.name}</h1>
